@@ -9,6 +9,7 @@ int main(void)
 	cin.tie(NULL);
 	cout.tie(NULL);
 
+	
 	int tc; cin >> tc;
 	for (int i = 1; i <= tc; i++) {
 		string date; cin >> date;
