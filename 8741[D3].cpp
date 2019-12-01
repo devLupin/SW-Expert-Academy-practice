@@ -8,7 +8,7 @@ int main(void)
 	cin.tie(0); cout.tie(0);
 
 	int T; cin >> T;
-	cin.ignore();
+	cin.ignore(); 
 	for (int tc = 1; tc <= T; tc++) {
 		string str; getline(cin, str);
 		string result = "";
